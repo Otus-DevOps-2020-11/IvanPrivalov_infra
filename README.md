@@ -33,3 +33,20 @@ Host someinternalhost
 ```shell
 ssh someinternalhost
 ```
+
+<details><summary>Пример вывода</summary>
+<p>
+
+```log
+$ ssh someinternalhost
+Welcome to Ubuntu 16.04.6 LTS (GNU/Linux 4.4.0-142-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+appuser@someinternalhost:~$
+
+```
+</p>
+</details>
